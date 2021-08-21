@@ -1,0 +1,46 @@
+.heading{
+    font-family: Copperplate, Papyrus, fantasy;
+    color: white;
+    background-color: rgb(170, 12, 136);
+    background-image: linear-gradient(to right,blue 0%,red 100%);
+    background-image: linear-gradient(rgb(170, 12, 136) 0%,rgb(252, 212, 248) 100% );
+    background-blend-mode:normal;
+    height: 200px;
+    margin: 0px -8px;
+  
+}
+
+div h2 {
+    color: white;
+    margin:-65px 0px 0px 800px;
+    font-size: 140%;
+    
+}
+
+body{
+    background: rgb(16, 226, 226);
+}
+nav{
+    margin: -100px 0px 0px 0px;
+    
+}
+nav a{
+    background-color: rgb(170, 12, 136);
+    border: 3px solid rgb(170, 12, 136);
+    color:white;
+    margin: 0px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 0px;
+    position: relative;
+    left:450px;
+}
+
+nav a:hover{
+    background-color: white;
+    color:rgb(170, 12, 136);
+    transition: 1.5s;
+    
+    
+}

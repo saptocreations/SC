@@ -1,0 +1,21 @@
+.container {
+    border:1px solid rgb(170, 12, 136);
+    padding: auto;
+    width: 50%;
+    padding: 5px;
+    margin-bottom: 20px;
+    color: white;
+    background-image: linear-gradient(to right, blue 0%,red );
+}
+
+.highlights {
+    border:1px solid rgb(170, 12, 136);
+    padding: auto;
+    width: 46.55%;
+    padding: 5px;
+    margin-bottom: 20px;
+    color: white;
+    background-image: linear-gradient(to right, blue 0%,red );
+    margin-top:-428px;
+    margin-left: 700px;
+}
